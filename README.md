@@ -17,7 +17,7 @@ In order to use this app, you will need to use:
 
 # Preview of the App
 
-![UserDirectory Screenshot](./gbooks.PNG)
+![UserDirectory Screenshot](./appscreenshot.png)
 
 # License
 
